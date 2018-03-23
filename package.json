@@ -1,0 +1,19 @@
+{
+  "name": "pokesearch",
+  "version": "1.0.0",
+  "description": "pokemon search app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyun93/pokesearch.git"
+  },
+  "author": "Sarah Hyun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyun93/pokesearch/issues"
+  },
+  "homepage": "https://github.com/shyun93/pokesearch#readme"
+}
