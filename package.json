@@ -4,6 +4,7 @@
   "description": "pokemon search app",
   "main": "app.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shyun93/pokesearch/issues"
   },
-  "homepage": "https://github.com/shyun93/pokesearch#readme"
+  "homepage": "https://github.com/shyun93/pokesearch#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
