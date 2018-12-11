@@ -5,7 +5,7 @@ var pokemonStats = document.getElementsByClassName("pokemon-stats")[0];
 var loading = document.getElementsByClassName("loading-animation")[0];
 
 function apiurl(pokemon){
-    return `http://pokeapi.salestock.net/api/v2/pokemon/${pokemon}`;
+    return `https://pokeapi.salestock.net/api/v2/pokemon/${pokemon}`;
 }
 
 function submitPokemon(){
